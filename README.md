@@ -1,2 +1,2 @@
 # algaworks
-Projetos dos Cursos daAlgaWorks
+Projetos dos Cursos da AlgaWorks
